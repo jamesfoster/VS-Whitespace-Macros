@@ -17,6 +17,6 @@ To configure:
 
 Here's mine:
 
-![Whitespace Menu](images/menu.png)
+![Whitespace Menu](/jamesfoster/VS-Whitespace-Macros/raw/master/images/menu.png)
 
 Enjoy!
